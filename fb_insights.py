@@ -1,5 +1,4 @@
 import facebook
-from datetime import datetime
 import mysql.connector
 
 # Connect to MySQL
