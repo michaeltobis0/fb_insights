@@ -6,7 +6,7 @@ import mysql.connector
 db = mysql.connector.connect(
     host="localhost",
     user="root",
-    passwd= #leaving out password for confidentiality reasons,
+    passwd= # leaving out password for confidentiality reasons,
     database="insights")
 
 # Create a cursor that we can use to interact easily with SQL
